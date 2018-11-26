@@ -9,4 +9,4 @@ echo
 echo DONE!
 echo
 echo Now, go to the directory with files you want to serve, and run:
-echo sudo python -m SimpleHTTPServer 8080
+echo sudo python -m SimpleHTTPServer 8080 (or the port you prefer)
